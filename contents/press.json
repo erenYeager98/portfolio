@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "url": "https://github.com/sanjayragavendar/forensense-v1",
+      "title": "A Digital forensics tool which can be used by anyone."
+    },
+    {
+      "url": "https://github.com/erenYeager98/robolearn-ai",
+      "title": "Student supported AI learning platform for beginners."
+    },
+    {
+      "url": "https://github.com/erenYeager98/Picamera2",
+      "title": "Full pledged camera application for Raspberry Pi with various features."
+    },
+    {
+      "url": "https://github.com/erenYeager98/moodle-bot-for-quizzes",
+      "title": "An automated bot for Moodle quizzes that can answer questions using AI."
+    },
+    {
+      "url": "https://github.com/erenYeager98/Datathon-maternEase",
+      "title": "It's a web application which is used for empowering maternal mental wellbeing using AI"
+    }
+  ]
+}
